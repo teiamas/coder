@@ -1,0 +1,15 @@
+{
+    "tasks": [
+        {
+            "label": "Cuda Make",
+            "type": "shell",
+            "command": "make clean dbg=1 && make all dbg=1",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": "$nvcc"
+        }
+    ],
+    "version": "2.0.0"
+}
