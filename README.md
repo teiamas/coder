@@ -1,6 +1,6 @@
 **Brief**: this project contains the code for an application that acquires the images of a stopwatch synchronizes to it saving an images of each stopwatch tick of a thenth of a second and and applying a NPP Laplacian filter  to it.
 
-**Credits**: this project has been derived from the example project boxFilterNPP provided in the course and from material supplied in the Coursera course of Real Time Systems by Sam Siewert.
+**Credits**: this project has been derived from the example Nvidia project boxFilterNPP provided in the Coursera "CUDA at scale for enterprise"  and from material supplied in the Coursera course of Real Time Systems by Sam Siewert.
 
 **Minimum spec**: SM 2.0, a UVC camera with at least 30 frames/sec
 
